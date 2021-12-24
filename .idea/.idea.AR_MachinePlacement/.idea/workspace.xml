@@ -54,12 +54,14 @@
       <option name="presentableId" value="Default" />
       <updated>1640329508296</updated>
       <workItem from="1640329514621" duration="37000" />
+      <workItem from="1640339663208" duration="20000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
   <component name="VcsManagerConfiguration">
