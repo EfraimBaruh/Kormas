@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a20cd3e-2caa-4459-ad4d-648d69908b80" name="Changes" comment="" />
+    <list default="true" id="5a20cd3e-2caa-4459-ad4d-648d69908b80" name="Changes" comment="canvas change">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AR_MachinePlacement/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AR_MachinePlacement/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scene/KormasAR.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scene/KormasAR.unity" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock://C:/PersonaInt/AR_MachinePlacement_v2.1/AR_MachinePlacement/Assets/Scene/KormasAR.unity" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -55,7 +61,16 @@
       <updated>1640329508296</updated>
       <workItem from="1640329514621" duration="37000" />
       <workItem from="1640339663208" duration="20000" />
+      <workItem from="1640344786416" duration="765000" />
     </task>
+    <task id="LOCAL-00001" summary="canvas change">
+      <created>1640344945681</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1640344945681</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -64,7 +79,20 @@
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="canvas change" />
+    <option name="LAST_COMMIT_MESSAGE" value="canvas change" />
   </component>
 </project>
