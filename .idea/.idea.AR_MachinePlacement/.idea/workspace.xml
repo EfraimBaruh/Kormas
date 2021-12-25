@@ -3,6 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="5a20cd3e-2caa-4459-ad4d-648d69908b80" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AR_MachinePlacement/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AR_MachinePlacement/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/KeyboardHandler.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/KeyboardHandler.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ProductDetailHandler.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ProductDetailHandler.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scene/KormasAR.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scene/KormasAR.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/AR_Object_Info.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/AR_Object_Info.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ProductInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ProductInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csproj.AssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,8 +19,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="mock://C:/PersonaInt/AR_MachinePlacement_v2.1/AR_MachinePlacement/Assets/Scene/KormasAR.unity" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/PersonaInt/AR_MachinePlacement_v2.1/AR_MachinePlacement/Assets/Scene/KormasAR.unity" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -26,6 +34,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="XThreadsFramesViewSplitterKey" value="0.5009597" />
     <property name="rider.run.widget.enabled.cache" value="false" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -40,10 +49,10 @@
       </option>
       <method v="2" />
     </configuration>
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="11488">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" />
+      <option name="pid" value="11488" />
       <option name="projectPathOnTarget" />
       <option name="selectedOptions">
         <list />
@@ -63,6 +72,8 @@
       <workItem from="1640339663208" duration="20000" />
       <workItem from="1640344786416" duration="3294000" />
       <workItem from="1640356702268" duration="1526000" />
+      <workItem from="1640444150107" duration="2371000" />
+      <workItem from="1640455971332" duration="5987000" />
     </task>
     <task id="LOCAL-00001" summary="canvas change">
       <created>1640344945681</created>

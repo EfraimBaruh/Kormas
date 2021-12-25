@@ -29,6 +29,8 @@ public class ProductInfo
     [SerializeField]
     private Sprite Image;
 
+    [SerializeField] private GameObject model;
+
     [SerializeField]
     private Animator animator;
 
@@ -72,6 +74,11 @@ public class ProductInfo
     public void SetAnimationState(Animation_State state)
     {
         animationState = state;
+    }
+
+    public GameObject GetModel()
+    {
+        return model;
     }
 
 
