@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a20cd3e-2caa-4459-ad4d-648d69908b80" name="Changes" comment="canvas change">
+    <list default="true" id="5a20cd3e-2caa-4459-ad4d-648d69908b80" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AR_MachinePlacement/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AR_MachinePlacement/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scene/KormasAR.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scene/KormasAR.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,6 +10,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock://C:/PersonaInt/AR_MachinePlacement_v2.1/AR_MachinePlacement/Assets/Scene/KormasAR.unity" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/PersonaInt/AR_MachinePlacement_v2.1/AR_MachinePlacement/Assets/Scene/KormasAR.unity" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -61,7 +61,8 @@
       <updated>1640329508296</updated>
       <workItem from="1640329514621" duration="37000" />
       <workItem from="1640339663208" duration="20000" />
-      <workItem from="1640344786416" duration="765000" />
+      <workItem from="1640344786416" duration="3294000" />
+      <workItem from="1640356702268" duration="1526000" />
     </task>
     <task id="LOCAL-00001" summary="canvas change">
       <created>1640344945681</created>
@@ -70,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640344945681</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="in Main branch changes">
+      <created>1640349408106</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1640349408106</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,6 +101,7 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="canvas change" />
-    <option name="LAST_COMMIT_MESSAGE" value="canvas change" />
+    <MESSAGE value="in Main branch changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="in Main branch changes" />
   </component>
 </project>
