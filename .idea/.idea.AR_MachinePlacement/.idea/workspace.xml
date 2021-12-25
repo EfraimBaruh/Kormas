@@ -1,17 +1,98 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a20cd3e-2caa-4459-ad4d-648d69908b80" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.AR_MachinePlacement/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AR_MachinePlacement/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/KeyboardHandler.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/KeyboardHandler.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ProductDetailHandler.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ProductDetailHandler.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scene/KormasAR.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scene/KormasAR.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/AR_Object_Info.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/AR_Object_Info.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ProductInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ProductInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csproj.AssemblyReference.cache" afterDir="false" />
+    <list default="true" id="5a20cd3e-2caa-4459-ad4d-648d69908b80" name="Changes" comment="ui flow settled.">
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AR_PlacementHandler.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AR_PlacementHandler.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/KeyboardHandler.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/KeyboardHandler.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ProductDetailHandler.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ProductDetailHandler.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ProductListController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ProductListController.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ScreenBlurHandler.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ScreenBlurHandler.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/ProcessJobs/dbdf52f0fb4c817938cbe4b29270cbf8.bakert" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-00b771bdbaadf28429949bc2207349d3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-06e90759b30f4f445be4291900703392" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-1049b1bf9c349df47b725b5cbb795fdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-13131c63e8d4f9e498a8471a591f3b29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-145a905336218a0479241baa9f6c432c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-15e7cbd0a7bc9ba4986d76d329679d09" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-165fe5d39cb9bf449a3c7bb25ad59e9d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-17169e656766f3b47bba0f020b651da8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-241b7f525f9baac45adbdd19dcb5596c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-2538ff4ed996fdd4ba6bf4978ffde68a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-25a6573a87e8d834abfaf05da251ad75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-289a6281832d2a845986ab85745bc5ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-2b66b41ad2d18b34999323be103216c3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-2bb8bdc0d285c724588a873dc99aafd0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-2fb1bfa8e263f654091ce1f53bcebd94" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-306af0b571b18154fa31bd3967862653" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-3247b4b93bd1f25459456a09f38e11f4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-34ee2e27f65628943a9baf7016cdd824" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-3531e5177108d3c41be45402dc9a8004" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-3572d348ff1cb144e81cf5b6bea31ed2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-3681deef111f5c541b6995d9b3259668" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-37e964b81b2b0ba49af43026208d4603" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-3955435c5e2085f4fb8efabdb626633f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-3a23c55517eabe64e8ca8c77813f5657" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-3b3ce38093d570b4b84ba3af83f9a54e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-3cd18c87b287c964c998276ec2fc8e60" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-3d72e8b707a69934eb569bd4f219aae2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-40170ef5c3f559948ab3826e12386342" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-40843add5fee4b841b27a442d26ce259" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-434f69f2637a4b04f9956fa94321d3b1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-45bab55a762688f45aff21fd16270d94" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-45f3951938b44ab4883456dda9e488f8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-4b9bd4414108e2e418dced1e1a38a50a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-4c65a9ed376792648b2b194228808eff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-511149b71496f414c94fdb0e8ccfe17c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-583548b6a29c28640ad672f9b3ce7c85" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-5b7b5130f67d8394294baa84e5b294cf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-5cfd5b7ec274e3c429b3ae66b2a4c7c8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-5e668a839576f794b871e9146140b58a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-5fbda4f0e48488644bd9a72e44546b7d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-65b6676564717a4488df2a02ea1184d2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-6cfd597f9543eaa40ae8d10521c00b69" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-7145309901919424d9216fd1184a8b59" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-7331e64a3f84dd14e93b736295b33283" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-75aba0dd847efcd43b5643268be917ca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-762d6676cd3e83546a318821854d7aa1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-77d313372f70c2d47a2f23b78fd30e29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-788b92d94f92fe24aa371e5a14f4b780" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-7baff40dc0802b1409138869487e26b2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-7ce19d84e1aca1a499ce1eb9146de1ce" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-7d60b95d67fd74447ae41d834afba267" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-7d9264edf99ce004f91d2260fb8321c8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-89bdf0b3aea461942a5d2e565569a060" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-8acd46706ce00e643b7e87f7ef95f736" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-8afab31f9eae2e24385cfd127e6db68c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-8c358fafb5baff0419a712f7e4ef7d74" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-8cbe128f2492d6344a848fa1f0dfd442" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-91cbf272ad6f2ff41b696a6a58e06e02" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-9619abd8b7ef06c418e2fcadd9d6e1b1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-9d083fe9b1c56cf479310948bfdb7829" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-a12d8f0bcae86f1438d885f4ab43caa2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-a595c6198f056134291bfda60b675320" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-bd0fa97d10edcf24eb0dfd3195a8cf26" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-c01b9edafc046de45966fe03b7c7efa0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-c45ccf7eed0af9c42a36345a3f35e7a0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-c6a471fa99bddf14dbdccbc6ed3d0a51" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-cdf09e1677e0f5d4f909fde249ced54f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-d211416abe3c99e4e825b6dd9db11936" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-d5c55255b6642c74d9de1434af3c1939" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-d9497dd7ac336f14dbae559a32c2d1c4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-dfae98e931f92064fab6e266c09b7ad6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-e2c2f7e89850ae6408e7857264dcecfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-e6f883197f7042f42a8f00bc17effe72" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-ec68052e3142cd744ba0b9393991af30" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-ec96e7554b812c1428ae2919ffbdfc51" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-ee3e8a467f1408746b625b935133ce45" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-f3a41b36b101f1547ba98ccc0bbda934" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-fbf6198b2a135fb4bbf4a25d7663af84" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-fcc3a6ef1042bdf42a042da19c87f62b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +101,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/PersonaInt/AR_MachinePlacement_v2.1/AR_MachinePlacement/Assets/Scripts/AR_Object_Info.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -35,6 +117,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="XThreadsFramesViewSplitterKey" value="0.5009597" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="rider.run.widget.enabled.cache" value="false" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -73,7 +156,7 @@
       <workItem from="1640344786416" duration="3294000" />
       <workItem from="1640356702268" duration="1526000" />
       <workItem from="1640444150107" duration="2371000" />
-      <workItem from="1640455971332" duration="5987000" />
+      <workItem from="1640455971332" duration="6815000" />
     </task>
     <task id="LOCAL-00001" summary="canvas change">
       <created>1640344945681</created>
@@ -89,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640349408106</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ui flow settled.">
+      <created>1640468950948</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1640468950948</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,6 +203,8 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="canvas change" />
     <MESSAGE value="in Main branch changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="in Main branch changes" />
+    <MESSAGE value="ui flow settled." />
+    <MESSAGE value="ui flow" />
+    <option name="LAST_COMMIT_MESSAGE" value="ui flow" />
   </component>
 </project>
