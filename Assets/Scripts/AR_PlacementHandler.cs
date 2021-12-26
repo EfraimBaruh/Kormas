@@ -7,7 +7,7 @@ public class AR_PlacementHandler : MonoBehaviour
 {
     private GameObject currentModel;
 
-    public PlaceOnPlane placer;
+    public AR_Object_Placer placer;
 
     public void SetCurrentModel()
     {
