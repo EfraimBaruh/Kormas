@@ -2,20 +2,25 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class ProductDetailHandler : MonoBehaviour
 {
     ProductInfo currentProduct;
 
     public static ProductDetailHandler instance;
-
+    
+    [SerializeField] private Image productImage;
+    [SerializeField] private TextMeshProUGUI product_exp;
+    
     public Action<ProductManager> onSelect = delegate {  };
     public Action onDeselect = delegate { };
 
     [SerializeField]
     private float speed;
-    
+
     #region product detail transform info
     
     [SerializeField]
@@ -59,6 +64,8 @@ public class ProductDetailHandler : MonoBehaviour
         transform.position = productManager.transform.position;
         transform.localScale = productManager.transform.localScale;
 
+        productImage.sprite = productManager.productInfo.GetImage();
+        product_exp.text = productManager.productInfo.GetExp();
         onSelect.Invoke(productManager);
 
         // set gif for gif player from currentProduct
