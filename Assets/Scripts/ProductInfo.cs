@@ -17,8 +17,10 @@ public class ProductInfo
     [SerializeField]
     private string name;
 
+    [SerializeField] private string explanation;
+
     [SerializeField]
-    private string info;
+    private Sprite info;
 
     [SerializeField]
     private category grandCategory;
@@ -27,7 +29,7 @@ public class ProductInfo
     private voltageType voltage_Type;
 
     [SerializeField]
-    private Sprite Image;
+    private Sprite image;
 
     [SerializeField] private GameObject model;
 
@@ -46,9 +48,18 @@ public class ProductInfo
         return name;
     }
 
-    public string GetInfo()
+    public Sprite GetInfo()
     {
         return info;
+    }
+
+    public string GetExp()
+    {
+        return explanation;
+    }
+    public Sprite GetImage()
+    {
+        return image;
     }
 
     public category GetCategory()

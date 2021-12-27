@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
@@ -40,6 +41,20 @@ public class InfoButtonHandler : ButtonHandler
 
         else
         {
+            // Set info
+            try
+            {
+                Sprite info = AR_Object_Info.instance.CurrentProduct.productInfo.GetInfo();
+
+                infoCanvas.GetComponent<Image>().sprite = info;
+
+            }
+            catch (NullReferenceException e)
+            {
+                Debug.LogError(e.Message);
+                throw;
+            }
+            
             infoCanvas.transform.DOScale(infoCanvasScale, 0.3f).OnComplete(() =>
             {
                 image.sprite = onSprite;

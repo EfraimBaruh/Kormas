@@ -88,10 +88,10 @@
      <Compile Include="Assets\Scripts\ScaleButtonHandler.cs" />
      <Compile Include="Assets\Scripts\ScreenBlurHandler.cs" />
      <Compile Include="Assets\Scripts\SelectObject.cs" />
+     <Compile Include="Assets\Scripts\SpawnerController.cs" />
      <Compile Include="Assets\Scripts\SprayTool.cs" />
      <Compile Include="Assets\Scripts\StepHandler.cs" />
      <Compile Include="Assets\Scripts\ToolSelection.cs" />
-     <Compile Include="Assets\SpawnerController.cs" />
      <Compile Include="Assets\UniGLTF\Core\Scripts\Extensions\ArrayExtensions.cs" />
      <Compile Include="Assets\UniGLTF\Core\Scripts\Extensions\JsonParserExtensions.cs" />
      <Compile Include="Assets\UniGLTF\Core\Scripts\Extensions\StringExtensions.cs" />
