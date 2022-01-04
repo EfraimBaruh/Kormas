@@ -38,6 +38,8 @@ public class ProductDetailHandler : MonoBehaviour
 
     private void Awake()
     {
+        initialScale = transform.localScale;
+        
         transform.localScale = Vector3.zero;
 
         instance = this;
@@ -57,12 +59,11 @@ public class ProductDetailHandler : MonoBehaviour
 
         // get initial pos and scale of selected product
         initialPos = productManager.transform.position;
-        initialScale = productManager.transform.localScale;
         initialized = true;
 
         // get start point and scale for the product detail panel
         transform.position = productManager.transform.position;
-        transform.localScale = productManager.transform.localScale;
+        transform.localScale = initialScale;
 
         productImage.sprite = productManager.productInfo.GetImage();
         product_exp.text = productManager.productInfo.GetExp();

@@ -1,0 +1,106 @@
+Index: Assets/StreamingAssets.meta
+===================================================================
+diff --git a/Assets/StreamingAssets.meta b/Assets/StreamingAssets.meta
+deleted file mode 100644
+--- a/Assets/StreamingAssets.meta	(revision 02ae4ede8ba0d572954ac2b24be887c0edee7438)
++++ /dev/null	(revision 02ae4ede8ba0d572954ac2b24be887c0edee7438)
+@@ -1,8 +0,0 @@
+-fileFormatVersion: 2
+-guid: 2aa651b91c0adf14db58fc650ae22482
+-folderAsset: yes
+-DefaultImporter:
+-  externalObjects: {}
+-  userData: 
+-  assetBundleName: 
+-  assetBundleVariant: 
+Index: Assets/Products/Info/DetailedInfo.meta
+===================================================================
+diff --git a/Assets/Products/Info/DetailedInfo.meta b/Assets/Products/Info/DetailedInfo.meta
+deleted file mode 100644
+--- a/Assets/Products/Info/DetailedInfo.meta	(revision 02ae4ede8ba0d572954ac2b24be887c0edee7438)
++++ /dev/null	(revision 02ae4ede8ba0d572954ac2b24be887c0edee7438)
+@@ -1,8 +0,0 @@
+-fileFormatVersion: 2
+-guid: 073ad3f43bbacc2429671ae01136dbf9
+-folderAsset: yes
+-DefaultImporter:
+-  externalObjects: {}
+-  userData: 
+-  assetBundleName: 
+-  assetBundleVariant: 
+Index: Assets/Products/Prefabs/002.meta
+===================================================================
+diff --git a/Assets/Products/Prefabs/002.meta b/Assets/Products/Prefabs/002.meta
+deleted file mode 100644
+--- a/Assets/Products/Prefabs/002.meta	(revision 02ae4ede8ba0d572954ac2b24be887c0edee7438)
++++ /dev/null	(revision 02ae4ede8ba0d572954ac2b24be887c0edee7438)
+@@ -1,8 +0,0 @@
+-fileFormatVersion: 2
+-guid: 192940183bd33bc448115fb70d383621
+-folderAsset: yes
+-DefaultImporter:
+-  externalObjects: {}
+-  userData: 
+-  assetBundleName: 
+-  assetBundleVariant: 
+Index: .idea/.idea.AR_MachinePlacement/.idea/indexLayout.xml
+===================================================================
+diff --git a/.idea/.idea.AR_MachinePlacement/.idea/indexLayout.xml b/.idea/.idea.AR_MachinePlacement/.idea/indexLayout.xml
+deleted file mode 100644
+--- a/.idea/.idea.AR_MachinePlacement/.idea/indexLayout.xml	(revision 02ae4ede8ba0d572954ac2b24be887c0edee7438)
++++ /dev/null	(revision 02ae4ede8ba0d572954ac2b24be887c0edee7438)
+@@ -1,8 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="UserContentModel">
+-    <attachedFolders />
+-    <explicitIncludes />
+-    <explicitExcludes />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: Assets/Products/Info/MainInfo.meta
+===================================================================
+diff --git a/Assets/Products/Info/MainInfo.meta b/Assets/Products/Info/MainInfo.meta
+deleted file mode 100644
+--- a/Assets/Products/Info/MainInfo.meta	(revision 02ae4ede8ba0d572954ac2b24be887c0edee7438)
++++ /dev/null	(revision 02ae4ede8ba0d572954ac2b24be887c0edee7438)
+@@ -1,8 +0,0 @@
+-fileFormatVersion: 2
+-guid: 88894cb8bc104044bad378123e3138f5
+-folderAsset: yes
+-DefaultImporter:
+-  externalObjects: {}
+-  userData: 
+-  assetBundleName: 
+-  assetBundleVariant: 
+Index: Assets/Products/Textures/001.meta
+===================================================================
+diff --git a/Assets/Products/Textures/001.meta b/Assets/Products/Textures/001.meta
+deleted file mode 100644
+--- a/Assets/Products/Textures/001.meta	(revision 02ae4ede8ba0d572954ac2b24be887c0edee7438)
++++ /dev/null	(revision 02ae4ede8ba0d572954ac2b24be887c0edee7438)
+@@ -1,8 +0,0 @@
+-fileFormatVersion: 2
+-guid: ea7b96a7ca6c2324d80216eaeb46b93b
+-folderAsset: yes
+-DefaultImporter:
+-  externalObjects: {}
+-  userData: 
+-  assetBundleName: 
+-  assetBundleVariant: 
+Index: Assets/Prefabs/arlowpoly5.Materials.meta
+===================================================================
+diff --git a/Assets/Prefabs/arlowpoly5.Materials.meta b/Assets/Prefabs/arlowpoly5.Materials.meta
+deleted file mode 100644
+--- a/Assets/Prefabs/arlowpoly5.Materials.meta	(revision 02ae4ede8ba0d572954ac2b24be887c0edee7438)
++++ /dev/null	(revision 02ae4ede8ba0d572954ac2b24be887c0edee7438)
+@@ -1,8 +0,0 @@
+-fileFormatVersion: 2
+-guid: 56b712acf6f27484891b39a1d5690e57
+-folderAsset: yes
+-DefaultImporter:
+-  externalObjects: {}
+-  userData: 
+-  assetBundleName: 
+-  assetBundleVariant: 

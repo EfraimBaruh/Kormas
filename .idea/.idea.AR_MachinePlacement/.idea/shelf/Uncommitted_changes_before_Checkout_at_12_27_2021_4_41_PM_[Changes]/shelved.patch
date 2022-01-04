@@ -1,0 +1,209 @@
+Index: Assets/StreamingAssets.meta
+===================================================================
+diff --git a/Assets/StreamingAssets.meta b/Assets/StreamingAssets.meta
+deleted file mode 100644
+--- a/Assets/StreamingAssets.meta	(revision 753e34872ac666d4ae24c815395c3179c93d1bb5)
++++ /dev/null	(revision 753e34872ac666d4ae24c815395c3179c93d1bb5)
+@@ -1,8 +0,0 @@
+-fileFormatVersion: 2
+-guid: 2aa651b91c0adf14db58fc650ae22482
+-folderAsset: yes
+-DefaultImporter:
+-  externalObjects: {}
+-  userData: 
+-  assetBundleName: 
+-  assetBundleVariant: 
+Index: .idea/.idea.AR_MachinePlacement/.idea/indexLayout.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/.idea.AR_MachinePlacement/.idea/indexLayout.xml b/.idea/.idea.AR_MachinePlacement/.idea/indexLayout.xml
+deleted file mode 100644
+--- a/.idea/.idea.AR_MachinePlacement/.idea/indexLayout.xml	(revision 753e34872ac666d4ae24c815395c3179c93d1bb5)
++++ /dev/null	(revision 753e34872ac666d4ae24c815395c3179c93d1bb5)
+@@ -1,8 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="UserContentModel">
+-    <attachedFolders />
+-    <explicitIncludes />
+-    <explicitExcludes />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: Assets/Products/002/Texture.meta
+===================================================================
+diff --git a/Assets/Products/002/Texture.meta b/Assets/Products/002/Texture.meta
+deleted file mode 100644
+--- a/Assets/Products/002/Texture.meta	(revision 753e34872ac666d4ae24c815395c3179c93d1bb5)
++++ /dev/null	(revision 753e34872ac666d4ae24c815395c3179c93d1bb5)
+@@ -1,8 +0,0 @@
+-fileFormatVersion: 2
+-guid: ad80ab2d5a3ceb74da058abe3a3fe6b6
+-folderAsset: yes
+-DefaultImporter:
+-  externalObjects: {}
+-  userData: 
+-  assetBundleName: 
+-  assetBundleVariant: 
+Index: Assets/Products/002/Animation.meta
+===================================================================
+diff --git a/Assets/Products/002/Animation.meta b/Assets/Products/002/Animation.meta
+deleted file mode 100644
+--- a/Assets/Products/002/Animation.meta	(revision 753e34872ac666d4ae24c815395c3179c93d1bb5)
++++ /dev/null	(revision 753e34872ac666d4ae24c815395c3179c93d1bb5)
+@@ -1,8 +0,0 @@
+-fileFormatVersion: 2
+-guid: 32322515c9bf33045a0e121d15f23d44
+-folderAsset: yes
+-DefaultImporter:
+-  externalObjects: {}
+-  userData: 
+-  assetBundleName: 
+-  assetBundleVariant: 
+Index: Assets/Products/002/Prefab.meta
+===================================================================
+diff --git a/Assets/Products/002/Prefab.meta b/Assets/Products/002/Prefab.meta
+deleted file mode 100644
+--- a/Assets/Products/002/Prefab.meta	(revision 753e34872ac666d4ae24c815395c3179c93d1bb5)
++++ /dev/null	(revision 753e34872ac666d4ae24c815395c3179c93d1bb5)
+@@ -1,8 +0,0 @@
+-fileFormatVersion: 2
+-guid: b926d9e975bc9c7489a8be776e597c65
+-folderAsset: yes
+-DefaultImporter:
+-  externalObjects: {}
+-  userData: 
+-  assetBundleName: 
+-  assetBundleVariant: 
+Index: Assets/Products/002/Info.meta
+===================================================================
+diff --git a/Assets/Products/002/Info.meta b/Assets/Products/002/Info.meta
+deleted file mode 100644
+--- a/Assets/Products/002/Info.meta	(revision 753e34872ac666d4ae24c815395c3179c93d1bb5)
++++ /dev/null	(revision 753e34872ac666d4ae24c815395c3179c93d1bb5)
+@@ -1,8 +0,0 @@
+-fileFormatVersion: 2
+-guid: 5813f0c07ce9f0b4ea67af152f589c14
+-folderAsset: yes
+-DefaultImporter:
+-  externalObjects: {}
+-  userData: 
+-  assetBundleName: 
+-  assetBundleVariant: 
+Index: Assets/Products/002/Model.meta
+===================================================================
+diff --git a/Assets/Products/002/Model.meta b/Assets/Products/002/Model.meta
+deleted file mode 100644
+--- a/Assets/Products/002/Model.meta	(revision 753e34872ac666d4ae24c815395c3179c93d1bb5)
++++ /dev/null	(revision 753e34872ac666d4ae24c815395c3179c93d1bb5)
+@@ -1,8 +0,0 @@
+-fileFormatVersion: 2
+-guid: dcba158770e1d4f4382f512b3bfa4a67
+-folderAsset: yes
+-DefaultImporter:
+-  externalObjects: {}
+-  userData: 
+-  assetBundleName: 
+-  assetBundleVariant: 
+Index: Assets/Products/Info/DetailedInfo.meta
+===================================================================
+diff --git a/Assets/Products/Info/DetailedInfo.meta b/Assets/Products/Info/DetailedInfo.meta
+deleted file mode 100644
+--- a/Assets/Products/Info/DetailedInfo.meta	(revision 753e34872ac666d4ae24c815395c3179c93d1bb5)
++++ /dev/null	(revision 753e34872ac666d4ae24c815395c3179c93d1bb5)
+@@ -1,8 +0,0 @@
+-fileFormatVersion: 2
+-guid: 073ad3f43bbacc2429671ae01136dbf9
+-folderAsset: yes
+-DefaultImporter:
+-  externalObjects: {}
+-  userData: 
+-  assetBundleName: 
+-  assetBundleVariant: 
+Index: Assets/Products/Info/MainInfo.meta
+===================================================================
+diff --git a/Assets/Products/Info/MainInfo.meta b/Assets/Products/Info/MainInfo.meta
+deleted file mode 100644
+--- a/Assets/Products/Info/MainInfo.meta	(revision 753e34872ac666d4ae24c815395c3179c93d1bb5)
++++ /dev/null	(revision 753e34872ac666d4ae24c815395c3179c93d1bb5)
+@@ -1,8 +0,0 @@
+-fileFormatVersion: 2
+-guid: 88894cb8bc104044bad378123e3138f5
+-folderAsset: yes
+-DefaultImporter:
+-  externalObjects: {}
+-  userData: 
+-  assetBundleName: 
+-  assetBundleVariant: 
+Index: Assets/Products/Info.meta
+===================================================================
+diff --git a/Assets/Products/Info.meta b/Assets/Products/Info.meta
+deleted file mode 100644
+--- a/Assets/Products/Info.meta	(revision 753e34872ac666d4ae24c815395c3179c93d1bb5)
++++ /dev/null	(revision 753e34872ac666d4ae24c815395c3179c93d1bb5)
+@@ -1,8 +0,0 @@
+-fileFormatVersion: 2
+-guid: 3c6f58f48ec5a93408921078145e8ed3
+-folderAsset: yes
+-DefaultImporter:
+-  externalObjects: {}
+-  userData: 
+-  assetBundleName: 
+-  assetBundleVariant: 
+Index: Assets/Prefabs/arlowpoly5.Materials.meta
+===================================================================
+diff --git a/Assets/Prefabs/arlowpoly5.Materials.meta b/Assets/Prefabs/arlowpoly5.Materials.meta
+deleted file mode 100644
+--- a/Assets/Prefabs/arlowpoly5.Materials.meta	(revision 753e34872ac666d4ae24c815395c3179c93d1bb5)
++++ /dev/null	(revision 753e34872ac666d4ae24c815395c3179c93d1bb5)
+@@ -1,8 +0,0 @@
+-fileFormatVersion: 2
+-guid: 56b712acf6f27484891b39a1d5690e57
+-folderAsset: yes
+-DefaultImporter:
+-  externalObjects: {}
+-  userData: 
+-  assetBundleName: 
+-  assetBundleVariant: 
+Index: .idea/.idea.AR_MachinePlacement/.idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"5a20cd3e-2caa-4459-ad4d-648d69908b80\" name=\"Changes\" comment=\"\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"main\" />\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"HighlightingSettingsPerFile\">\r\n    <setting file=\"file://$PROJECT_DIR$/Assets/Scripts/AR_Object_Placer.cs\" root0=\"FORCE_HIGHLIGHTING\" />\r\n    <setting file=\"file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.arfoundation@2.1.18/Runtime/AR/ARPlaneMeshVisualizer.cs\" root0=\"SKIP_HIGHLIGHTING\" />\r\n    <setting file=\"file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.arfoundation@2.1.18/Runtime/AR/ARRaycastManager.cs\" root0=\"SKIP_HIGHLIGHTING\" />\r\n    <setting file=\"file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.arfoundation@2.1.18/Runtime/AR/ARPointCloudManager.cs\" root0=\"SKIP_HIGHLIGHTING\" />\r\n    <setting file=\"file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ddafb09a306244819d133a69f0a212b316400/76/0c5d96dc/TrackableType.cs\" root0=\"SKIP_HIGHLIGHTING\" />\r\n    <setting file=\"file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.arfoundation@2.1.18/Runtime/AR/ARPlaneManager.cs\" root0=\"SKIP_HIGHLIGHTING\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"22invVGbJ28WtGmDsn8GG97GlVl\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"Discover.Launch.Via.Unity\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"XThreadsFramesViewSplitterKey\" value=\"0.5009597\" />\r\n    <property name=\"nodejs_package_manager_path\" value=\"npm\" />\r\n    <property name=\"rider.run.widget.enabled.cache\" value=\"false\" />\r\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"Attach to Unity Editor.Attach to Unity Editor\">\r\n    <configuration name=\"Attach to Unity Editor &amp; Play\" type=\"UNITY_DEBUG_RUN_CONFIGURATION\" factoryName=\"UNITY_ATTACH_AND_PLAY\" show_console_on_std_err=\"false\" show_console_on_std_out=\"false\" port=\"50000\" address=\"localhost\">\r\n      <option name=\"allowRunningInParallel\" value=\"false\" />\r\n      <option name=\"listenPortForConnections\" value=\"false\" />\r\n      <option name=\"pid\" />\r\n      <option name=\"projectPathOnTarget\" />\r\n      <option name=\"selectedOptions\">\r\n        <list />\r\n      </option>\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"Attach to Unity Editor\" type=\"UNITY_DEBUG_RUN_CONFIGURATION\" factoryName=\"Unity Debug\" show_console_on_std_err=\"false\" show_console_on_std_out=\"false\" port=\"50000\" address=\"localhost\">\r\n      <option name=\"allowRunningInParallel\" value=\"false\" />\r\n      <option name=\"listenPortForConnections\" value=\"false\" />\r\n      <option name=\"pid\" />\r\n      <option name=\"projectPathOnTarget\" />\r\n      <option name=\"selectedOptions\">\r\n        <list />\r\n      </option>\r\n      <method v=\"2\" />\r\n    </configuration>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"5a20cd3e-2caa-4459-ad4d-648d69908b80\" name=\"Changes\" comment=\"\" />\r\n      <created>1640329508296</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1640329508296</updated>\r\n      <workItem from=\"1640329514621\" duration=\"37000\" />\r\n      <workItem from=\"1640339663208\" duration=\"20000\" />\r\n      <workItem from=\"1640344786416\" duration=\"3294000\" />\r\n      <workItem from=\"1640356702268\" duration=\"1526000\" />\r\n      <workItem from=\"1640444150107\" duration=\"2371000\" />\r\n      <workItem from=\"1640455971332\" duration=\"7154000\" />\r\n      <workItem from=\"1640512190276\" duration=\"3095000\" />\r\n      <workItem from=\"1640533696521\" duration=\"5019000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"canvas change\">\r\n      <created>1640344945681</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1640344945681</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"in Main branch changes\">\r\n      <created>1640349408106</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1640349408106</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"ui flow settled.\">\r\n      <created>1640468950948</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1640468950948</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"ui flow\">\r\n      <created>1640471321666</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1640471321666</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"product assets changed.\">\r\n      <created>1640512300487</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1640512300487</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"menu improvement, placement detection improvement\">\r\n      <created>1640542405799</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1640542405799</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"7\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"UnityCheckinConfiguration\" checkUnsavedScenes=\"true\" />\r\n  <component name=\"UnityProjectConfiguration\" hasMinimizedUI=\"true\" />\r\n  <component name=\"UnityUnitTestConfiguration\" currentTestLauncher=\"EditMode\" />\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <option name=\"CLEAR_INITIAL_COMMIT_MESSAGE\" value=\"true\" />\r\n    <MESSAGE value=\"canvas change\" />\r\n    <MESSAGE value=\"in Main branch changes\" />\r\n    <MESSAGE value=\"ui flow settled.\" />\r\n    <MESSAGE value=\"ui flow\" />\r\n    <MESSAGE value=\"product assets changed.\" />\r\n    <MESSAGE value=\"menu improvement, placement detection improvement\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"menu improvement, placement detection improvement\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/.idea.AR_MachinePlacement/.idea/workspace.xml b/.idea/.idea.AR_MachinePlacement/.idea/workspace.xml
+--- a/.idea/.idea.AR_MachinePlacement/.idea/workspace.xml	(revision 753e34872ac666d4ae24c815395c3179c93d1bb5)
++++ b/.idea/.idea.AR_MachinePlacement/.idea/workspace.xml	(date 1640612379019)
+@@ -1,7 +1,15 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="5a20cd3e-2caa-4459-ad4d-648d69908b80" name="Changes" comment="" />
++    <list default="true" id="5a20cd3e-2caa-4459-ad4d-648d69908b80" name="Changes" comment="product assets changed.">
++      <change beforePath="$PROJECT_DIR$/.idea/.idea.AR_MachinePlacement/.idea/indexLayout.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/arlowpoly5.Materials.meta" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/Assets/Products/Info/DetailedInfo.meta" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/Assets/Products/Info/MainInfo.meta" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets.meta" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor.csproj.AssemblyReference.cache" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csproj.AssemblyReference.cache" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -16,11 +24,10 @@
+   </component>
+   <component name="HighlightingSettingsPerFile">
+     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AR_Object_Placer.cs" root0="FORCE_HIGHLIGHTING" />
++    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.arfoundation@2.1.18/Runtime/AR/ARPlaneManager.cs" root0="SKIP_HIGHLIGHTING" />
+     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.arfoundation@2.1.18/Runtime/AR/ARPlaneMeshVisualizer.cs" root0="SKIP_HIGHLIGHTING" />
+     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.arfoundation@2.1.18/Runtime/AR/ARRaycastManager.cs" root0="SKIP_HIGHLIGHTING" />
+     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.arfoundation@2.1.18/Runtime/AR/ARPointCloudManager.cs" root0="SKIP_HIGHLIGHTING" />
+-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ddafb09a306244819d133a69f0a212b316400/76/0c5d96dc/TrackableType.cs" root0="SKIP_HIGHLIGHTING" />
+-    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.arfoundation@2.1.18/Runtime/AR/ARPlaneManager.cs" root0="SKIP_HIGHLIGHTING" />
+   </component>
+   <component name="MarkdownSettingsMigration">
+     <option name="stateVersion" value="1" />
