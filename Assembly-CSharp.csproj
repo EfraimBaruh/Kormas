@@ -73,6 +73,7 @@
      <Compile Include="Assets\Scripts\ButtonHandler.cs" />
      <Compile Include="Assets\Scripts\CalculateDistance.cs" />
      <Compile Include="Assets\Scripts\CanvasPositioner.cs" />
+     <Compile Include="Assets\Scripts\DetailModeHandler.cs" />
      <Compile Include="Assets\Scripts\EventLibrary.cs" />
      <Compile Include="Assets\Scripts\GameManager.cs" />
      <Compile Include="Assets\Scripts\GameStepHandler.cs" />
@@ -85,6 +86,7 @@
      <Compile Include="Assets\Scripts\ProductInfo.cs" />
      <Compile Include="Assets\Scripts\ProductListController.cs" />
      <Compile Include="Assets\Scripts\ProductManager.cs" />
+     <Compile Include="Assets\Scripts\ProductViewHandler.cs" />
      <Compile Include="Assets\Scripts\RotateButtonHandler.cs" />
      <Compile Include="Assets\Scripts\ScaleButtonHandler.cs" />
      <Compile Include="Assets\Scripts\ScreenBlurHandler.cs" />
