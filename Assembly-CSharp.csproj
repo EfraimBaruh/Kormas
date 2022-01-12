@@ -65,6 +65,7 @@
      <Compile Include="Assets\Demigiant\DOTween\Modules\DOTweenModuleUI.cs" />
      <Compile Include="Assets\Demigiant\DOTween\Modules\DOTweenModuleUnityVersion.cs" />
      <Compile Include="Assets\Demigiant\DOTween\Modules\DOTweenModuleUtils.cs" />
+     <Compile Include="Assets\ProductTransformHandler.cs" />
      <Compile Include="Assets\Scripts\AR_Object_Info.cs" />
      <Compile Include="Assets\Scripts\AR_Object_Placer.cs" />
      <Compile Include="Assets\Scripts\AR_PlacementHandler.cs" />
@@ -242,6 +243,7 @@
      <Compile Include="Assets\UniGLTF\UniJSON\Scripts\MsgPack\MsgPackValue.cs" />
      <Compile Include="Assets\UniGLTF\UniJSON\Scripts\StringSegment.cs" />
      <Compile Include="Assets\UniGLTF\UniUnlit\Scripts\Utils.cs" />
+     <Compile Include="Assets\ViewCameraHandler.cs" />
      <Compile Include="Assets\arfoundation-samples-2.1\Assets\Scenes\ImageTracking\TrackedImageInfoManager.cs" />
      <Compile Include="Assets\arfoundation-samples-2.1\Assets\Scripts\ARCoreFaceRegionManager.cs" />
      <Compile Include="Assets\arfoundation-samples-2.1\Assets\Scripts\ARFeatheredPlaneMeshVisualizer.cs" />

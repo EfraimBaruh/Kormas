@@ -17,6 +17,8 @@ public class AR_PlacementHandler : MonoBehaviour
         try
         {
             placer.placedPrefab = currentModel;
+            
+            AR_Object_Info.instance.SetCurrentModel(currentModel);
         }
         catch (NullReferenceException e)
         {

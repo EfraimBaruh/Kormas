@@ -8,7 +8,7 @@ public class ProductViewHandler : MonoBehaviour
     private ProductInfo productInfo;
     private void OnEnable()
     {
-        productInfo = AR_Object_Info.instance.SelectedProduct.productInfo;
+        productInfo = AR_Object_Info.instance.CurrentProduct.productInfo;
 
         GameObject viewProduct = Instantiate(productInfo.GetModel(), transform);
     }
