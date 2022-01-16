@@ -61,7 +61,7 @@ public class AR_Object_Placer : MonoBehaviour
             if (spawnedObject == null)
             {
 
-                spawnedObject = Instantiate(m_PlacedPrefab, hitPose.position, hitPose.rotation);
+                spawnedObject = Instantiate(m_PlacedPrefab, hitPose.position, hitPose.rotation, transform);
                 // set initial rotation to zero
                 spawnedObject.transform.localEulerAngles = Vector3.zero;
 

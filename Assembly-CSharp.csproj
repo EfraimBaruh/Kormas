@@ -97,6 +97,7 @@
      <Compile Include="Assets\Scripts\StepHandler.cs" />
      <Compile Include="Assets\Scripts\ToolSelection.cs" />
      <Compile Include="Assets\Scripts\UpdateRectTransform.cs" />
+     <Compile Include="Assets\Tiler.cs" />
      <Compile Include="Assets\UniGLTF\Core\Scripts\Extensions\ArrayExtensions.cs" />
      <Compile Include="Assets\UniGLTF\Core\Scripts\Extensions\JsonParserExtensions.cs" />
      <Compile Include="Assets\UniGLTF\Core\Scripts\Extensions\StringExtensions.cs" />
@@ -275,10 +276,12 @@
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
      <None Include="Assets\arfoundation-samples-2.1\ProjectSettings\ProjectVersion.txt" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
+     <None Include="Assets\TextMesh Pro\Fonts\Orbitron\SIL Open Font License.txt" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
      <None Include="Assets\arfoundation-samples-2.1\Assets\Shaders\FeatheredPlaneShader.shader" />
      <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
+     <None Include="Assets\TextMesh Pro\Fonts\antediluvian\sharefonts.net.txt" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF.shader" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
      <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />

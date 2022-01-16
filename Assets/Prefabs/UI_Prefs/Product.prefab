@@ -158,10 +158,12 @@ MonoBehaviour:
   productInfo:
     id: 0
     name: 
-    info: 
+    explanation: 
+    info: {fileID: 0}
     grandCategory: 0
     voltage_Type: 0
-    Image: {fileID: 0}
+    image: {fileID: 0}
+    model: {fileID: 0}
     animator: {fileID: 0}
 --- !u!1 &1238727059085485922
 GameObject:
@@ -197,8 +199,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: 0, y: 27.300049}
-  m_SizeDelta: {x: 0, y: 111}
+  m_AnchoredPosition: {x: -0.03390789, y: 27.300049}
+  m_SizeDelta: {x: 0.027923578, y: 111}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!222 &1238727059085485927
 CanvasRenderer:
@@ -228,7 +230,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: e3265ab4bf004d28a9537516768c1c75, type: 3}
+    m_Font: {fileID: 12800000, guid: 61d44f1d4bd1c5d479be6190223a9717, type: 3}
     m_FontSize: 30
     m_FontStyle: 0
     m_BestFit: 0
