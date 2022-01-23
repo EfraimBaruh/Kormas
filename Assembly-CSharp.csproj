@@ -65,7 +65,6 @@
      <Compile Include="Assets\Demigiant\DOTween\Modules\DOTweenModuleUI.cs" />
      <Compile Include="Assets\Demigiant\DOTween\Modules\DOTweenModuleUnityVersion.cs" />
      <Compile Include="Assets\Demigiant\DOTween\Modules\DOTweenModuleUtils.cs" />
-     <Compile Include="Assets\ProductTransformHandler.cs" />
      <Compile Include="Assets\Scripts\AR_Object_Info.cs" />
      <Compile Include="Assets\Scripts\AR_Object_Placer.cs" />
      <Compile Include="Assets\Scripts\AR_PlacementHandler.cs" />
@@ -82,11 +81,14 @@
      <Compile Include="Assets\Scripts\ITool.cs" />
      <Compile Include="Assets\Scripts\InfoButtonHandler.cs" />
      <Compile Include="Assets\Scripts\KeyboardHandler.cs" />
+     <Compile Include="Assets\Scripts\MenuProductImageSetter.cs" />
+     <Compile Include="Assets\Scripts\MenuProductTextSetter.cs" />
      <Compile Include="Assets\Scripts\ObjRotater.cs" />
      <Compile Include="Assets\Scripts\ProductDetailHandler.cs" />
      <Compile Include="Assets\Scripts\ProductInfo.cs" />
      <Compile Include="Assets\Scripts\ProductListController.cs" />
      <Compile Include="Assets\Scripts\ProductManager.cs" />
+     <Compile Include="Assets\Scripts\ProductTransformHandler.cs" />
      <Compile Include="Assets\Scripts\ProductViewHandler.cs" />
      <Compile Include="Assets\Scripts\RotateButtonHandler.cs" />
      <Compile Include="Assets\Scripts\ScaleButtonHandler.cs" />
@@ -95,9 +97,10 @@
      <Compile Include="Assets\Scripts\SpawnerController.cs" />
      <Compile Include="Assets\Scripts\SprayTool.cs" />
      <Compile Include="Assets\Scripts\StepHandler.cs" />
+     <Compile Include="Assets\Scripts\Tiler.cs" />
      <Compile Include="Assets\Scripts\ToolSelection.cs" />
      <Compile Include="Assets\Scripts\UpdateRectTransform.cs" />
-     <Compile Include="Assets\Tiler.cs" />
+     <Compile Include="Assets\Scripts\ViewCameraHandler.cs" />
      <Compile Include="Assets\UniGLTF\Core\Scripts\Extensions\ArrayExtensions.cs" />
      <Compile Include="Assets\UniGLTF\Core\Scripts\Extensions\JsonParserExtensions.cs" />
      <Compile Include="Assets\UniGLTF\Core\Scripts\Extensions\StringExtensions.cs" />
@@ -244,7 +247,6 @@
      <Compile Include="Assets\UniGLTF\UniJSON\Scripts\MsgPack\MsgPackValue.cs" />
      <Compile Include="Assets\UniGLTF\UniJSON\Scripts\StringSegment.cs" />
      <Compile Include="Assets\UniGLTF\UniUnlit\Scripts\Utils.cs" />
-     <Compile Include="Assets\ViewCameraHandler.cs" />
      <Compile Include="Assets\arfoundation-samples-2.1\Assets\Scenes\ImageTracking\TrackedImageInfoManager.cs" />
      <Compile Include="Assets\arfoundation-samples-2.1\Assets\Scripts\ARCoreFaceRegionManager.cs" />
      <Compile Include="Assets\arfoundation-samples-2.1\Assets\Scripts\ARFeatheredPlaneMeshVisualizer.cs" />

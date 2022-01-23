@@ -12,4 +12,10 @@ public class ProductViewHandler : MonoBehaviour
 
         GameObject viewProduct = Instantiate(productInfo.GetModel(), transform);
     }
+    private void OnDisable(){
+        foreach (Transform child in transform)
+        {
+            Destroy(child.gameObject);
+        }
+    }
 }
